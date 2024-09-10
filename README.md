@@ -1,4 +1,0 @@
-# pythonbasic
-# pythonbasic
-# pythonbasic
-# pythonbasic
